@@ -9,7 +9,7 @@ $ git clone https://github.com/bayegaspard/varMax.git
 $ cd varMax
 $ pip install -r requirements.txt
 ```
-### Gadget Data
+### Datasets
 Refer to : [Payload-Byte](https://github.com/Yasir-ali-farrukh/Payload-Byte.git)
 
 
