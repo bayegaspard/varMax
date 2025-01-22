@@ -6,12 +6,8 @@ Detecting zero-day attacks, which exploit previously unknown vulnerabilities, is
 ### Architecture of varMax
 
 <img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
+ style="text-align: center;"
     src="https://github.com/user-attachments/assets/56d56315-f0f2-496e-9952-0abc6d8587d9"
-    alt="Our logo">
 </img>
 
 
