@@ -7,7 +7,7 @@ Detecting zero-day attacks, which exploit previously unknown vulnerabilities, is
 
 <img 
  style="text-align: center;"
-    src="https://github.com/user-attachments/assets/56d56315-f0f2-496e-9952-0abc6d8587d9"
+    src="https://github.com/user-attachments/assets/56d56315-f0f2-496e-9952-0abc6d8587d9">
 </img>
 
 
